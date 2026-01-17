@@ -1,5 +1,8 @@
 # syscheck
 This is a tool that allows you to check between 8 options about your PC.
+Note:
+Installation at the bottom.
+Only for Arch Linux.
 
 ## The options:
 ```
